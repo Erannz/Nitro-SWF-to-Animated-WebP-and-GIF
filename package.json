@@ -1,0 +1,18 @@
+{
+  "name": "hbimagebuilderv2",
+  "version": "1.0.0",
+  "description": "Renderizador de assets Habbo com suporte a WebP animado",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "node-webpmux": "^3.2.1",
+    "sharp": "^0.33.5",
+    "skia-canvas": "^3.0.8"
+  }
+}
